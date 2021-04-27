@@ -1,0 +1,20 @@
+.grid{
+     display:flex;
+     flex-wrap: wrap;
+     width: 200px;
+     height: 200px;
+     border: solid 2px #000;
+}
+
+.cell{
+     width: 20px;
+     height:20px;
+}
+
+.apple{
+     background-color: #f00;
+}
+
+.snake{
+     background-color: #0f0;
+}
